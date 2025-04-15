@@ -2,4 +2,4 @@
 
 
 
-![](./images/symbol.png)  
+![](./images/symbol.jpg)  
