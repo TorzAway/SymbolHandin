@@ -50,7 +50,7 @@ local turnInItems = {
         'Staff of Shattered Dreams', 'Scepter of Forbidden Knowledge', 'Earring of the Starless Night', 'Silken Slippers of Discordant Magic', 'Armguards of Envy', 'Suede Gloves of Creation', 'Crown of the Forsaken', 'Bloodfire Cabochon',
         'Chain Wraps of the Dark Master', 'Earring of Incessant Conflict', 'Forlorn Mantle of Shadows', 'Halberd of Endless Pain', 'Shadowy Coif of Condemnation', 'Sleeves of Cognitive Resonance', 'Stained Fur Mask', 'Steel Boots of the Slayer',
         'Carved Bone Gauntlets', 'Cloak of the Penumbra', 'Golden Half Mask of Convalescence', 'Hardened Bone Spike', 'Skullcap of Contemplation', 'Ukun-Hide Armplates of Mortification', 'Woven Chain Boots of Strife',
-        'Aegis of Discord', 'Band of Solid Shadow', 'Blackstone Figurine', 'Cape of Woven Steel', 'Edge of Chaos', 'Gem-Studded Band of Struggle', 'Gemstone of Dark Flame', 'Kaftan of Embroidered Light', 'Longsword of Execration', 'Muramite’s Heavy Shackles', 'Shroud of Ceaseless Might', 'Spiked Steel Baton', 'Wristband of Chaotic Warfare' 
+        'Aegis of Discord', 'Band of Solid Shadow', 'Blackstone Figurine', 'Cape of Woven Steel', 'Edge of Chaos', 'Gem-Studded Band of Struggle', 'Gemstone of Dark Flame', 'Kaftan of Embroidered Light', 'Longsword of Execration', 'Muramite\'s Heavy Shackles', 'Shroud of Ceaseless Might', 'Spiked Steel Baton', 'Wristband of Chaotic Warfare' 
     },
 }
 
